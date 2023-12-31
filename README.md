@@ -5,3 +5,6 @@ I am an undergraduate student majoring in computer engineering with a passionate
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/haekalfadhilah/) account.
 
 ### **Skills and Experience**<br>
+* Technical💻: Atmega, C, C++, Matlab, MySQL, Python, and Ubuntu
+* Software Capabilities📀:  Arduino IDE, Ubuntu, Fritzing, Figma, Canva, Microsoft Office, and SimulIDE
+* Languages🗣️:  Indonesian (Native), English (Intermediate)
