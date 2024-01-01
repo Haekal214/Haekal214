@@ -7,6 +7,6 @@ I am an undergraduate student majoring in computer engineering with a passionate
 * Software Capabilities📀:  Arduino IDE, Ubuntu, Fritzing, Figma, Canva, Microsoft Office, and SimulIDE
 * Languages🗣️:  Indonesian (Native), English (Intermediate)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haekal214)](https://github.com/haekal214/github-readme-stats)
+<img alt = "top langs" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=haekal214&layout=compant"/>
 
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/haekalfadhilah/) account.
+If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/haekalfadhilah/) account.
